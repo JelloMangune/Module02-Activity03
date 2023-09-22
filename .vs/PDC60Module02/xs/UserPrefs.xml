@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6E677A8B-B4AF-4AC3-9281-1750542905BD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PDC60Module02.Android PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PDC60Module02/PDC60Module02/Model/Student.cs">
+    <Files>
+      <File FileName="PDC60Module02/PDC60Module02/MainPage.xaml.cs" />
+      <File FileName="PDC60Module02/PDC60Module02/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="PDC60Module02/PDC60Module02/App.xaml.cs" Line="14" Column="1" />
+      <File FileName="PDC60Module02/PDC60Module02/App.xaml" Line="1" Column="1" />
+      <File FileName="PDC60Module02/PDC60Module02/ViewModel/StudentViewModel.cs" Line="8" Column="24" />
+      <File FileName="PDC60Module02/PDC60Module02/View/Page1.xaml" Line="25" Column="23" />
+      <File FileName="PDC60Module02/PDC60Module02/View/Page1.xaml.cs" Line="12" Column="24" />
+      <File FileName="PDC60Module02/PDC60Module02/Model/Student.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDC60Module02" expanded="True">
+            <Node name="PDC60Module02">
+              <Node name="ViewModel" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
