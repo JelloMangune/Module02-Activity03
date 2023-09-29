@@ -30,3 +30,6 @@ C:\Users\User\Desktop\Jello Mangune\Module2-Activity2\PDC60Module02\PDC60Module0
 C:\Users\User\Desktop\Jello Mangune\Module2-Activity2\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.dll
 C:\Users\User\Desktop\Jello Mangune\Module2-Activity2\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\refint\PDC60Module02.dll
 C:\Users\User\Desktop\Jello Mangune\Module2-Activity2\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\PDC60Module02.pdb
+C:\Users\User\Desktop\Jello Mangune\Module2-Activity2\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\View\Gesture\gesture.xaml.g.cs
+C:\Users\User\Desktop\Jello Mangune\Module2-Activity2\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\View\Gesture\gesture_image.xaml.g.cs
+C:\Users\User\Desktop\Jello Mangune\Module2-Activity2\PDC60Module02\PDC60Module02\obj\Debug\netstandard2.0\View\Compass.xaml.g.cs
